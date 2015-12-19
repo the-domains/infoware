@@ -1,0 +1,28 @@
+name: infoware
+favicon: null
+layout_spectrum: 0.9631250023376197
+typography_spectrum: 0.2814296658616513
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6168628197629005
+  lightness: 0.8115239534527063
+  saturation: 0.13976223091594875
+  rhythmicContrast: 0.9739494465757161
+purpose: []
